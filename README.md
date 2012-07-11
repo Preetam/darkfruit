@@ -14,7 +14,7 @@ To use the Terminator theme, copy the file to `.config/terminator/config` or run
 
 GNOME Terminal
 --------------
-Run either `gnome-termina-set-dark.sh` or `gnome-termina-set-light.sh`. The only difference is that the foreground/background colors get swapped.
+Run either `gnome-terminal-set-dark.sh` or `gnome-terminal-set-light.sh`. The only difference is that the foreground/background colors get swapped.
 
 gedit
 -----
