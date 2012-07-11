@@ -10,7 +10,7 @@ Why?
 
 Terminator
 ----------
-To use the Terminator theme, copy the file to `.config/terminator/config`.
+To use the Terminator theme, copy the file to `.config/terminator/config` or run `terminator-set-config.sh`.
 
 GNOME Terminal
 --------------
