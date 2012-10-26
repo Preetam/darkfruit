@@ -32,7 +32,7 @@ What's in your .vimrc?
     
     set background=dark
     set tabstop=2
-		set shiftwidth=2
+    set shiftwidth=2
     set mouse=a
     
     set pastetoggle=<F2>
